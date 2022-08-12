@@ -1,6 +1,6 @@
 # Bikesharing
 
-[link to dashboard](https://public.tableau.com/app/profile/sheela.tookhy)
+[Link to Dashboard](https://public.tableau.com/app/profile/sheela.tookhy)
 
 ## Overview of the Analysis
   1.  Import data into Tableau.
