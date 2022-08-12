@@ -1,5 +1,7 @@
 # Bikesharing
 
+[link to dashboard](https://public.tableau.com/app/profile/sheela.tookhy)
+
 ## Overview of the Analysis
   1.  Import data into Tableau.
   2.  Create and style worksheets, dashboards, and stories in Tableau.
