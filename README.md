@@ -14,7 +14,7 @@
 
 ![This is an image](https://github.com/Stookhy/Bikesharing/blob/main/Checkout%20Times%20by%20Gender.png?raw=true)
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png?raw=true)
 
 ![This is an image]
 
