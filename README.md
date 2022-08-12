@@ -8,7 +8,7 @@
 
 ## Purpose
 
-  Using data from a bike-sharing program to evaluate and visualize trips in New York City. Looking at geographical data, along with disaggreated data by user types, and genders to deteremine if this would be a good investment. The data also includes usage durations, peak usage times, and key target market. 
+   Using data from a bike-sharing program to evaluate and visualize trips in New York City. Looking at geographical data, along with disaggreated data by user types, and genders to deteremine if this would be a good investment. The data also includes usage durations, peak usage times, and key target market. 
 
 ## Results
 
