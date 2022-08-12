@@ -27,3 +27,11 @@
 ![This is an image](https://github.com/Stookhy/Bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png?raw=true)
 
 ## Summary
+
+  *   The results show that the key target market for bike users should be towards males, given their heavy usage in comparison to females and unknown groups
+  *   The results show that the key target market for bike users should be towards subscribers, given their heavy usage in comparison to regular customers
+  *   The results show that there is an opportunity to maximize and promote longer bike usage per trip, given that most trips last around 5 to minutes
+  *   For future analysis, the two following additional visualizations will be beneficial:
+        *   Checkout time for users, segregated between subscribers and customers
+        *   A trip by weekday chart that combines time when bikes were used, as well as the length before checkout.
+
