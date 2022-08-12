@@ -16,6 +16,6 @@
 
 ![This is an image](https://github.com/Stookhy/Bikesharing/blob/main/Trips%20by%20Gender%20(Weekday%20per%20Hour).png?raw=true)
 
-![This is an image]
+![This is an image](https://github.com/Stookhy/Bikesharing/blob/main/User%20Trips%20by%20Gender%20by%20Weekday.png?raw=true)
 
 ## Summary
